@@ -1,4 +1,4 @@
 Soy Sergio Afanador
 Vivo en Sabaneta
 Este es un párrafo nuevo
-Ya estoy en master
+Atención: todo este segmento se va a modificar desde rama
